@@ -5,9 +5,11 @@ Nesta atividade, você vai montar um programa para praticar funções em JavaScr
 Você vai usar métodos e propriedades do document e seus nodos para criar elementos, definir atributos, alterar conteúdo, estilizar e registrar eventos.
 
 **Aluna:** Michele Fortunato Lima
-**Matrícula:** 318211811
+
+**Matrícula:** 928047
 
 **Proposta de Projeto:** Funções e Manipulação do DOM.
+
 
 **Breve descrição sobre seu projeto:** Nesta atividade, desenvolvi um catálogo de Mini E-commerce para praticar a manipulação do DOM e o uso de funções em JavaScript. O projeto exibe produtos a partir de uma base de dados em JSON, permitindo ao usuário buscar itens por nome, filtrar por categoria, destacar cards e visualizar detalhes completos dos produtos.
 
